@@ -4,8 +4,8 @@
 var scenes = {
   Kitchen: {
      default_yaw: 180,
-    image: 'images/Pano__blended_fused_med.jpg',
-    preview: 'images/P5200105-small.jpg',
+    image: 'images/Pano_blended_fused_med.jpg',
+    preview: 'images/Pano_blended_fused_med.jpg',
     
     
     hotspots: {
