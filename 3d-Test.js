@@ -21,12 +21,7 @@ var scenes = {
         radius: 0.05,
         distance: 1
       },
-      //walrus: {
-       // pitch: 0,
-        //yaw: 170,
-        //radius: 0.05,
-        //distance: 1
-      //}
+ 
     }
   },
   Living: {
@@ -79,7 +74,7 @@ function onLoad() {
     height: '500px',
     width: '1000px',
     is_stereo: true,
-    is_yaw_only: true,
+    is_yaw_only: false,
     default_yaw: 180 ,
     is_autopan_off: false
   });
