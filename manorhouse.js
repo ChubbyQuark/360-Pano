@@ -4,7 +4,7 @@
 var scenes = {
   Kitchen: {
      default_yaw: 180,
-    image: 'images/Pano_blended_fused_medHurstGreen.jpg',
+    image: 'images/Hall.jpg',
     preview: 'images/P5200105-small.jpg',
     
     
