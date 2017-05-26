@@ -76,8 +76,8 @@ function onLoad() {
   Viewer = new VRView.Player('#PrettyPics', {
     image: 'images/black.jpg',
     preview: 'images/black.jpg',
-    height: '400px',
-    width: '800px',
+    height: '100%',
+    width: '100%',
     is_stereo: true,
     is_yaw_only: true,
     default_yaw: 180 ,
